@@ -1,0 +1,8 @@
+@article{REPO167,
+    author = "Iwasawa, Yusuke and Matsuo, Yutaka",
+    journal = "Advances in Neural Information Processing Systems",
+    pages = "2427--2440",
+    title = "{Test-time classifier adjustment module for model-agnostic domain generalization}",
+    volume = "34",
+    year = "2021"
+}
